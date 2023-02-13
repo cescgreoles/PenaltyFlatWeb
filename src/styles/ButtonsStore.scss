@@ -1,71 +1,13 @@
-.secondTitle {
-  position: absolute;
-  width: 863px;
-  height: 681px;
-  left: 517px;
-  top: 234px;
+* {
+  margin: 0;
+  padding: 0;
+  color: white;
 }
 
 .logo {
   position: absolute;
   width: 235px;
   height: 200px;
-  top: 234px;
   left: 831px;
-}
-
-.text1 {
-  position: absolute;
-  width: 863px;
-  height: 192px;
-  left: 517px;
-  top: 476px;
-
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 500;
-  font-size: 64px;
-  line-height: 96px;
-  text-align: center;
-
-  color: #ffffff;
-}
-
-.appStore {
-  position: absolute;
-  width: 234.88px;
-  height: 78.29px;
-  left: 675px;
-  top: 728.3px;
-
-  //   background: url();
-}
-
-.googlePlay {
-  position: absolute;
-  width: 264.92px;
-  height: 102.53px;
-  left: 957.88px;
-  top: 716px;
-
-  //   background: url();
-}
-
-.descargatelaYa {
-  position: absolute;
-  width: 402px;
-  height: 60px;
-  left: 748px;
-  top: 855px;
-
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 600;
-  font-size: 40px;
-  line-height: 60px;
-  /* identical to box height */
-
-  text-align: center;
-
-  color: #ffffff;
+  top: 234px;
 }
